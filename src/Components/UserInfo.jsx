@@ -1,5 +1,6 @@
 import React from 'react'
 
+//userinfo details
 const UserInfo = (props) => {
   return (
     <>
